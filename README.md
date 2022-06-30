@@ -1,4 +1,4 @@
-# Class Project: Part-1 - Hello World
+# Class Project: Part 1 – Hello World
 
 This is a class project: part 1 of the graduate-level course: GNG5300 - Full Stack Software Development.
 
